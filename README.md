@@ -1,5 +1,5 @@
 # My Blog
-原博客已舍弃，以后写在issue中。
+见 [Issues🍻](https://github.com/guitong/blog/issues)
 
 # Contact Me
 Mail：guitong.geng@gmail.com
